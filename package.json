@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "https://github.com/Lcarter200183/To-do-list#readme",
+  "bugs": {
+    "url": "https://github.com/Lcarter200183/To-do-list/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcarter200183/To-do-list.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
@@ -13,6 +21,5 @@
   "dependencies": {
     "inquirer": "^12.5.0",
     "lodash": "^4.17.21"
-  },
-  "devDependencies": {}
+  }
 }
